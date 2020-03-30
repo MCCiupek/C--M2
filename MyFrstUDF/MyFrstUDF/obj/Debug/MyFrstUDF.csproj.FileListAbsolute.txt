@@ -1,0 +1,6 @@
+C:\Users\mcciupek\Documents\C#\MyFrstUDF\MyFrstUDF\bin\Debug\MyFrstUDF.dll
+C:\Users\mcciupek\Documents\C#\MyFrstUDF\MyFrstUDF\bin\Debug\MyFrstUDF.pdb
+C:\Users\mcciupek\Documents\C#\MyFrstUDF\MyFrstUDF\obj\Debug\MyFrstUDF.csprojAssemblyReference.cache
+C:\Users\mcciupek\Documents\C#\MyFrstUDF\MyFrstUDF\obj\Debug\MyFrstUDF.csproj.CoreCompileInputs.cache
+C:\Users\mcciupek\Documents\C#\MyFrstUDF\MyFrstUDF\obj\Debug\MyFrstUDF.dll
+C:\Users\mcciupek\Documents\C#\MyFrstUDF\MyFrstUDF\obj\Debug\MyFrstUDF.pdb
